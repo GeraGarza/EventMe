@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "42f6ecd038ab1c68f68df042d65494ed"
+build_time: [1548527381, 659785000]
+inputs:
+  "/Users/geragarza/Documents/Apps/EventMe/EventMe/ViewController.swift": [1548527364, 0]
+  "/Users/geragarza/Documents/Apps/EventMe/EventMe/AppDelegate.swift": [1548527364, 0]

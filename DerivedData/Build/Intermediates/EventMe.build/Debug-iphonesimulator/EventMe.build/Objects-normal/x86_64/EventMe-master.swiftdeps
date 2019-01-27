@@ -1,6 +1,10 @@
 version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
-options: "42f6ecd038ab1c68f68df042d65494ed"
-build_time: [1548527381, 659785000]
+options: "3c8ffad6d4255648a709252873bc7259"
+build_time: [1548561951, 159394000]
 inputs:
-  "/Users/geragarza/Documents/Apps/EventMe/EventMe/ViewController.swift": [1548527364, 0]
-  "/Users/geragarza/Documents/Apps/EventMe/EventMe/AppDelegate.swift": [1548527364, 0]
+  "/Users/geragarza/Documents/Apps/EventMe/EventMe/Controllers/CartsViewController.swift": [1548561948, 0]
+  "/Users/geragarza/Documents/Apps/EventMe/EventMe/Controllers/LoginViewController.swift": [1548552010, 0]
+  "/Users/geragarza/Documents/Apps/EventMe/EventMe/Controllers/RegisterViewController.swift": [1548557496, 0]
+  "/Users/geragarza/Documents/Apps/EventMe/EventMe/AppDelegate.swift": [1548539810, 0]
+  "/Users/geragarza/Documents/Apps/EventMe/EventMe/Model/Cart.swift": [1548548327, 0]
+  "/Users/geragarza/Documents/Apps/EventMe/EventMe/Controllers/WelcomeViewControllers.swift": [1548550755, 0]
